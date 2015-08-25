@@ -2,7 +2,7 @@ Basic information:
 
 - First name (how you prefer to be called): Chongwei
 - Cornell netid: cz344
-- GitHub login: cz344@cornell.edu fleming001
+- GitHub login: destinyzcw
 - Status (audit/enrolled/etc): enrolled
 - Level (ugrad/MEng/PhD/etc): MEng
 - Major: ECE
