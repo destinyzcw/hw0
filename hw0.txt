@@ -1,23 +1,24 @@
 Basic information:
 
-- First name (how you prefer to be called):
-- Cornell netid:
-- GitHub login:
-- Status (audit/enrolled/etc):
-- Level (ugrad/MEng/PhD/etc):
-- Major:
+- First name (how you prefer to be called): Chongwei
+- Cornell netid: cz344
+- GitHub login: cz344@cornell.edu fleming001
+- Status (audit/enrolled/etc): enrolled
+- Level (ugrad/MEng/PhD/etc): MEng
+- Major: ECE
 
 Indicate level of comfort with the following on a five-point scale
 (1 = I've never heard of it, 3 = I can get by, 5 = I know a lot).
 
-- Git:
-- Unix shell:
-- C programming:
-- Python programming:
-- Computer architecture:
-- Locking and concurrency:
-- Numerical methods:
+- Git: 1
+- Unix shell: 1
+- C programming: 3
+- Python programming: 3
+- Computer architecture: 1
+- Locking and concurrency: 1
+- Numerical methods: 3
 
 Is there anything else you feel I should know about your background?
-
+I know a lot about Java
 Why are you taking the class?
+I want to know more about parallel computing, how to improve performance of computing and improve my coding skills.
